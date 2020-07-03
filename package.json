@@ -11,8 +11,22 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1"
   },
-  "scripts": {
+  "scripts.local": {
     "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "scripts.heroku": {
+    "start": "node server.js",
+    "react:start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "scripts": {
+	"start": "node server.js",
+    "react:start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
