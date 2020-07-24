@@ -39,12 +39,12 @@ function PortfolioPage() {
           </div>
           <div class="col-sm-4">
             <div class="card" style={{width: "18rem;"}}>
-              <img class="card-img-top" src="/images/HerokuAppScreenShot.png" alt="Assignment13Screenshot"  width="288px" height="127px"/>
+              <img class="card-img-top" src="/images/App.png" alt="to.getherScreenshot"  width="288px" height="127px"/>
               <div class="card-body">
-                <h5 class="card-title">Burger Munch App</h5>
-                <p class="card-text">Make your Burger + Eat it too!</p>
-                <a href="https://nikolalazovicassignment13.herokuapp.com/" class="btn btn-primary">Check it out!</a>
-                <a href="https://github.com/NikLaz1/NikolaLazovicAssignment13" class="btn btn-primary">GitHub Repo</a>
+                <h5 class="card-title">Pick-up Sports App</h5>
+                <p class="card-text">Helps you schedule sports evenets using municipal and private venues!</p>
+                <a href="https://finalwave.herokuapp.com/" class="btn btn-primary">Check it out!</a>
+                <a href="https://github.com/rodrigomgimenes/uoftgroupprojectfinal.github.io" class="btn btn-primary">GitHub Repo</a>
               </div>
             </div>
           </div>
