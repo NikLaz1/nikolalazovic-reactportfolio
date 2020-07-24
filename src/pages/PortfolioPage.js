@@ -42,7 +42,7 @@ function PortfolioPage() {
               <img class="card-img-top" src="/images/App.png" alt="to.getherScreenshot"  width="288px" height="127px"/>
               <div class="card-body">
                 <h5 class="card-title">Pick-up Sports App</h5>
-                <p class="card-text">Helps you schedule sports evenets using municipal and private venues!</p>
+                <p class="card-text">Helps you schedule sports events using municipal and private venues!</p>
                 <a href="https://finalwave.herokuapp.com/" class="btn btn-primary">Check it out!</a>
                 <a href="https://github.com/rodrigomgimenes/uoftgroupprojectfinal.github.io" class="btn btn-primary">GitHub Repo</a>
               </div>
